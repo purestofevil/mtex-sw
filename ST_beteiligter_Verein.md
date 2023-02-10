@@ -1,5 +1,3 @@
-<u>Stellungnahme des beteiligten Vereins zum Einspruch</u>
-
 %AKZ%
 
 Einspruch gegen die Wertung des Spiels %LIGA% %HVEREIN% - %GVEREIN% am

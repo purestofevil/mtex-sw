@@ -40,6 +40,10 @@
 ## Entwürfe (Auflistung)
 
 ### Stellungnahme  
+
+[Textinfos: Stellungnahme](ST_texte.md)  
+  
+Auflistung:  
 - [Stellungnahme: Zeuge](ST_Zeuge.md)  
 - [Stellungnahme: Beteiligter Verein](ST_beteiligter_Verein.md)  
 
@@ -47,6 +51,10 @@
 - keine  
 
 ### Beabsichtigte Entscheidung
+
+[Textinfos: Beabsichtigte Entscheidung](BE_texte.md)  
+  
+Auflistung:  
 - [BE: Neuansetzung](BE_Neuansetzung.md)  
 - [BE: Unzulässig](BE_Unzulaessig.md)  
 - [BE: Wertung - Gastverein](BE_Wertung_Gastverein.md)
@@ -54,6 +62,10 @@
 - [BE: Zurückverweisung](BE_Zurueckweisung.md)
 
 ### Entscheidung
+
+[Textinfos: Entscheidung](ENT_texte.md)  
+  
+Auflistung:  
 - [ENT: Neuansetzung](ENT_Neuansetzung.md)  
 - [ENT: Unzulässig](ENT_Unzulaessig.md)  
 - [ENT: Wertung - Gastverein](ENT_Wertung_Gastverein.md)

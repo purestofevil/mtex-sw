@@ -1,8 +1,3 @@
-<u>Entscheidung zum Einspruch: Unzulässigkeit</u>
-
-<u>(Einspruchsführender Verein muss im Modul SPG als Beschuldigter
-erfasst werden)</u>
-
 %AKZ%
 
 Einspruch gegen die Wertung des Spiels %LIGA% %HVEREIN% - %GVEREIN% am

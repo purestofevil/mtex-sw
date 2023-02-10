@@ -1,5 +1,3 @@
-<u>Stellungnahme Zeugen z.B. SR zum Einspruch</u>
-
 %AKZ%
 
 Einspruch gegen die Wertung des Spiels %LIGA% %HVEREIN% - %GVEREIN% am

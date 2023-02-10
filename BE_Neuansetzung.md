@@ -1,9 +1,3 @@
-Beabsichtigte Entscheidung zur Neuansetzung beim Einspruch (i.d.R.
-Regelverstoß des SR)
-
-(Einspruchsführender Verein muss im Modul SPG als Beschuldigter erfasst
-werden)
-
 %AKZ%
 
 Einspruch gegen die Wertung des Spiels %LIGA% %HVEREIN% - %GVEREIN% am

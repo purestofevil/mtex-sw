@@ -1,7 +1,3 @@
-<u>Entscheidung zum Einspruch: Wertung für den Gastverein</u>
-
-<u>(Heimverein muss als Beschuldigter im Modul SPG erfasst werden)</u>
-
 %AKZ%
 
 Einspruch gegen die Wertung des Spiels %LIGA% %HVEREIN% - %GVEREIN% am

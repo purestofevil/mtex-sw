@@ -1,7 +1,3 @@
-<u>Beabsichtigte Entscheidung wegen Unzulässigkeit des Einspruchs
-(Einspruchsführender Verein muss als Beschuldigter im Modul SPG erfasst
-werden)</u>
-
 %AKZ%
 
 Einspruch gegen die Wertung des Spiels %LIGA% %HVEREIN% - %GVEREIN% am
