@@ -4,11 +4,12 @@
 - [Stellungnahme: Zeuge](ST_Zeuge.md)  
 	- Textkennung: *fehlt*  
 	- Zugeordnete Gerichte: *fehlt*  
-	- Zugeordnete Rechtsgrundlage: -  
+	- Zugeordnete Rechtsgrundlage: keine vorgesehen  
+
 2. Stellungnahme des beteiligten Vereins zum Einspruch  
-- [Stellungnahme: Beteiligter Verein](ST_beteiligter_Verein.md)
+- [Stellungnahme: Beteiligter Verein](ST_beteiligter_Verein.md)  
 	- Textkennung: *fehlt*  
 	- Zugeordnete Gerichte: *fehlt*  
-	- Zugeordnete Rechtsgrundlage: -  
+	- Zugeordnete Rechtsgrundlage: keine vorgesehen  
   
 	

@@ -21,14 +21,14 @@
 	- Zugeordnete Gerichte: *fehlt*  
 	- Zugeordnete Rechtsgrundlage: -  
 	- Entscheidungsart: *fehlt*  
-4. Entscheidung zum Einspruch: Wertung für den Heimverein
+4. Entscheidung zum Einspruch: Wertung für den Heimverein  
 *(Gastverein muss als Beschuldigter im Modul SPG erfasst werden)*  
 - [ENT: Wertung - Heimverein](ENT_Wertung_Heimverein.md)
 	- Textkennung: *fehlt*  
 	- Zugeordnete Gerichte: *fehlt*  
 	- Zugeordnete Rechtsgrundlage: -  
 	- Entscheidungsart: *fehlt*  
-5. Entscheidung zum Einspruch: Zurückweisung als unbegründet
+5. Entscheidung zum Einspruch: Zurückweisung als unbegründet  
 *(Einspruchsführender Verein muss als Beschuldigter im Modul SPG
 erfasst werden)*  
 - [ENT: Zurückverweisung](ENT_Zurueckweisung.md)

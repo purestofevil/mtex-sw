@@ -18,13 +18,13 @@
 	- Textkennung: *fehlt*  
 	- Zugeordnete Gerichte: *fehlt*  
 	- Zugeordnete Rechtsgrundlage: -  
-4. Beabsichtigte Entscheidung zum Einspruch \> Wertung für den Heimverein
+4. Beabsichtigte Entscheidung zum Einspruch \> Wertung für den Heimverein  
 *(Gastverein muss als Beschuldigter im Modul SPG erfasst werden)*  
 - [BE: Wertung - Heimverein](BE_Wertung_Heimverein.md)
 	- Textkennung: *fehlt*  
 	- Zugeordnete Gerichte: *fehlt*  
 	- Zugeordnete Rechtsgrundlage: -  
-5. Beabsichtigte Entscheidung zum Einspruch \> Zurückweisung als unbegründet
+5. Beabsichtigte Entscheidung zum Einspruch \> Zurückweisung als unbegründet  
 *(Einspruchsführender Verein muss als Beschuldigter im Modul SPG
 erfasst werden)*  
 - [BE: Zurückverweisung](BE_Zurueckweisung.md)
