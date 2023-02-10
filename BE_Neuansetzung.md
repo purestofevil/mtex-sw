@@ -1,5 +1,5 @@
-<u>Entscheidung zum Einspruch \> Neuansetzung (i.d.R. Regelverstoß des
-SR)</u>
+Beabsichtigte Entscheidung zur Neuansetzung beim Einspruch (i.d.R.
+Regelverstoß des SR)
 
 (Einspruchsführender Verein muss im Modul SPG als Beschuldigter erfasst
 werden)
@@ -22,7 +22,7 @@ spielleitende Stelle wird angewiesen, das Spiel neu anzusetzen.
 2\. Die gezahlte Einspruchsgebühr ist dem einspruchsführenden Verein
 %SPNAME% zu erstatten.
 
-3\. Die Auslagen des Verfahrens gehen zu Lasten des FVN.
+3\. Die Kosten des Verfahrens gehen zu Lasten des Verbandes.
 
 Sofern dem %GERICHT% in dieser Sache weitere Stellungnahmen oder
 Einlassungen anderer Personen oder weiterer Beteiligter vorliegen,

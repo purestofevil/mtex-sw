@@ -20,8 +20,8 @@ wie folgt zu entscheiden:
 
 2\. Die gezahlte Einspruchsgebühr ist verfallen.
 
-3\. Die Auslagen des Verfahrens zahlt der einspruchsführende Verein
-%SPNAME% an den FVN.
+3\. Die Kosten des Verfahrens trägt der einspruchsführende Verein
+%SPNAME%.
 
 Sofern dem %GERICHT% in dieser Sache weitere Stellungnahmen oder
 Einlassungen anderer Personen oder weiterer Beteiligter vorliegen,

@@ -23,7 +23,7 @@ spielleitende Stelle wird angewiesen, das Spiel neu anzusetzen.
 2\. Die gezahlte Einspruchsgebühr ist dem einspruchsführenden Verein
 %SPNAME% zu erstatten.
 
-3\. Die Auslagen des Verfahrens gehen zu Lasten des FVN.
+3\. Die Kosten des Verfahrens gehen zu Lasten des Verbandes.
 
 Die Entscheidung ist berufungsfähig.
 

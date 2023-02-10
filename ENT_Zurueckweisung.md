@@ -20,8 +20,8 @@ für Recht erkannt:
 
 2\. Die gezahlten Einspruchsgebühren sind verfallen.
 
-3\. Die Auslagen des Verfahrens zahlt der einspruchsführende Verein
-%SPNAME% an den FVN.
+3\. Die Kosten des Verfahrens trägt der einspruchsführende Verein
+%SPNAME%.
 
 Die Entscheidung ist berufungsfähig.
 
