@@ -1,0 +1,1 @@
+Der verfahrensgegenständliche Sachverhalt ergibt sich aus den Eintragungen im Spielbericht und aus den gegebenenfalls diesem Schreiben beigefügten Unterlagen (z.B. Zusatzbericht). 

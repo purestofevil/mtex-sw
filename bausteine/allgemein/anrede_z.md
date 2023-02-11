@@ -1,0 +1,1 @@
+Sehr geehrte/r %ZEUGE_NAME%, 

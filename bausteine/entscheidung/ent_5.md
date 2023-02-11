@@ -1,0 +1,1 @@
+hat das %GERICHT% durch seine/n Sportrichter/Sportrichterin(nen) %BES% 

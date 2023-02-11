@@ -1,0 +1,1 @@
+Die Aussetzung der Vollstreckung zur Bewährung war an den Nachweis der Erfüllung der festgesetzten Auflage(n) gebunden. 

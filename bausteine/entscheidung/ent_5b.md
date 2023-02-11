@@ -1,0 +1,1 @@
+hat das %GERICHT% durch seine/n Vorsitzende(n) %BES% 

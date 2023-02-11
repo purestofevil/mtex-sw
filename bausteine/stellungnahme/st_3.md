@@ -1,0 +1,1 @@
+Das Verfahren wird durch den/die gemäß Geschäftsverteilungsplan zuständige(n) Sportrichter/in(nen) %BES% geführt. 

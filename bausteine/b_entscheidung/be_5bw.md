@@ -1,0 +1,1 @@
+Die Entscheidungen mit den vorgenannten Aktenzeichen erhalten Sie vorsorglich als Anlage zu diesem Schreiben beigefügt. 

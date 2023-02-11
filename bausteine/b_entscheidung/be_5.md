@@ -1,0 +1,1 @@
+Sofern dem %GERICHT% in dieser Sache Stellungnahmen oder Einlassungen anderer Personen oder weiterer Beteiligter vorliegen, erhalten Sie diese anliegend zur Kenntnis. 

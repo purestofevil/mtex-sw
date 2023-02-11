@@ -1,0 +1,1 @@
+Es besteht Gelegenheit, bis zum %STELLGN_BIS% in Textform zu dem Verfahrensgegenstand Stellung zu nehmen. 

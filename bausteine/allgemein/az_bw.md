@@ -1,0 +1,1 @@
+Aktenzeichen: %AKZ%; Vollstreckungssache zu Az. %FALLGRUNDLAGE% 

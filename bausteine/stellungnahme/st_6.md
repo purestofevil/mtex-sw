@@ -1,0 +1,1 @@
+Gem. § 31 Abs. 2 RuVO/WDFV wird darauf hingewiesen, dass keine Verpflichtung zur Abgabe einer Stellungnahme besteht und dies im Rahmen der Entscheidungsfindung nicht zu Ungunsten des Beschuldigten %SPNAME% verwertet werden darf. 

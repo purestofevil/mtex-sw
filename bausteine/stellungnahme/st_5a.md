@@ -1,0 +1,1 @@
+Das %GERICHT% geht davon aus, dass Sie zur Aufklärung sachdienliche Informationen beitragen können. 

@@ -1,0 +1,1 @@
+des Antrags auf sportgerichtliche Entscheidung des %ANZ_VON% vom %ANZ_DAT% gegen die %TAT% 

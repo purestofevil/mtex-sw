@@ -1,0 +1,1 @@
+Bitte beachten Sie, dass Antworten von außerhalb des elektronischen Postfachsystems (nur) an die oben rechts angegebene E-Mail-Adresse möglich sind. 
