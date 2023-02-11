@@ -2,8 +2,10 @@
 
 *Status \[publishing\]:*  
 [![pages-build-deployment](https://github.com/purestofevil/mtex-sw/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/purestofevil/mtex-sw/actions/workflows/pages/pages-build-deployment)  
-
-
+  
+*Status \[Integration branch\]:*    
+[![Textgenerator](https://github.com/purestofevil/mtex-sw/actions/workflows/textgenerator.yml/badge.svg)](https://github.com/purestofevil/mtex-sw/actions/workflows/textgenerator.yml)
+  
 *Vorüberlegung: TP*  
 *Entwürfe: AB*  
 
