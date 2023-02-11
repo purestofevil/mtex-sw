@@ -12,9 +12,7 @@ Das Verfahren wird durch den/die gemäß Geschäftsverteilungsplan
 zuständige/n Sportrichter/in %BES% im schriftlichen
 Einzelrichterverfahren geführt.
 
-Der zur Entscheidung anstehende Sachverhalt ergibt sich aus dem
-beigefügten Einspruch und gegebenenfalls ergänzend aus den Eintragungen
-im Spielbericht.
+*Referenz auf Sachverhalt, der den Einspruch begründet.* 
 
 Das %GERICHT% geht davon aus, dass Sie zur Aufklärung sachdienliche
 Informationen beitragen können. Sie werden daher aufgefordert, bis zum
