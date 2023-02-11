@@ -1,47 +1,15 @@
 # Mustertexte für Sportgerichte: Einspruch gg. Spielwertung
+  
+*Status \[publishing\]:*  
+[![pages-build-deployment](https://github.com/purestofevil/mtex-sw/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/purestofevil/mtex-sw/actions/workflows/pages/pages-build-deployment)  
 
-*Vorüberlegung: TP*  
-*Entwürfe: AB*  
-
-## Vorüberlegung
-
-### Systematische Aufteilung möglicher Anküpfungspunkte  
-
- 
-
-#### Verfahrensschritte  
-
-- Stellungnahme
-- Verhandlungsladung
-- Beabsichtigte Entscheidung
-- Entscheidung
-
-#### Adressaten  
-
-- Einspruchsführer
-- Einspruchsgegner
-- Beteiligter Verein bei Einspruch durch Dritten
-- Zeuge / Vereinsmitglied
-- Zeuge / Schiedsrichter
-
-#### Rechtsfolgen
-
-- Formelle Gründe
-	- Unzulässig (Form, Frist)
-	- Unzulässig (Gebühr)
-
-- Materielle Gründe
-	- Unbegründet
-	- Begründet
-		- Kein Verschulden: Neuansetzung
-		- Verschulden: Spielwertung
-
-
+[*Vorüberlegung (TP)*](struktur.md)  
+  
 ## Entwürfe (Auflistung)
 
 ### Stellungnahme  
 
-[Textinfos: Stellungnahme](ST_texte.md)  
+[Textinfos: Stellungnahme](uebersicht/ST_texte.md)  
   
 Auflistung:  
 - [Stellungnahme: Zeuge](ST_Zeuge.md)  
@@ -52,7 +20,7 @@ Auflistung:
 
 ### Beabsichtigte Entscheidung
 
-[Textinfos: Beabsichtigte Entscheidung](BE_texte.md)  
+[Textinfos: Beabsichtigte Entscheidung](uebersicht/BE_texte.md)  
   
 Auflistung:  
 - [BE: Neuansetzung](BE_Neuansetzung.md)  
@@ -63,7 +31,7 @@ Auflistung:
 
 ### Entscheidung
 
-[Textinfos: Entscheidung](ENT_texte.md)  
+[Textinfos: Entscheidung](uebersicht/ENT_texte.md)  
   
 Auflistung:  
 - [ENT: Neuansetzung](ENT_Neuansetzung.md)  
