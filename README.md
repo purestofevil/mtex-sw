@@ -9,7 +9,8 @@
 
 [*Vorüberlegung (TP)*](struktur.md)  
   
-## Entwürfe (Auflistung)
+
+## Entwürfe (AB)
 
 ### Stellungnahme  
 
