@@ -9,38 +9,7 @@
 
 [*Vorüberlegung (TP)*](struktur.md)  
   
-
-## Entwürfe (AB)
-
-### Stellungnahme  
-
-[Textinfos: Stellungnahme](uebersicht/ST_texte.md)  
+[Entwürfe (AB)](uebersicht/AB_texte.md)
   
-Auflistung:  
-- [Stellungnahme: Zeuge](ST_Zeuge.md)  
-- [Stellungnahme: Beteiligter Verein](ST_beteiligter_Verein.md)  
+[Entwürfe Angleichung an andere Mustertexte (TP)](mtex_texte.md)
 
-### Verhandlungsladung
-- keine  
-
-### Beabsichtigte Entscheidung
-
-[Textinfos: Beabsichtigte Entscheidung](uebersicht/BE_texte.md)  
-  
-Auflistung:  
-- [BE: Neuansetzung](BE_Neuansetzung.md)  
-- [BE: Unzulässig](BE_Unzulaessig.md)  
-- [BE: Wertung - Gastverein](BE_Wertung_Gastverein.md)
-- [BE: Wertung - Heimverein](BE_Wertung_Heimverein.md)
-- [BE: Zurückverweisung](BE_Zurueckweisung.md)
-
-### Entscheidung
-
-[Textinfos: Entscheidung](uebersicht/ENT_texte.md)  
-  
-Auflistung:  
-- [ENT: Neuansetzung](ENT_Neuansetzung.md)  
-- [ENT: Unzulässig](ENT_Unzulaessig.md)  
-- [ENT: Wertung - Gastverein](ENT_Wertung_Gastverein.md)
-- [ENT: Wertung - Heimverein](ENT_Wertung_Heimverein.md)
-- [ENT: Zurückverweisung](ENT_Zurueckweisung.md)
