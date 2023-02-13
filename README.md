@@ -11,5 +11,5 @@
   
 [Entwürfe (AB)](uebersicht/AB_texte.md)
   
-[Entwürfe Angleichung an andere Mustertexte (TP)](mtex_texte.md)
+[Entwürfe Angleichung an andere Mustertexte (TP)](uebersicht/mtex_texte.md)
 
