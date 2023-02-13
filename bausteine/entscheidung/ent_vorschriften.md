@@ -1,0 +1,1 @@
+Angewendete Vorschrift(en): %PARA1% 

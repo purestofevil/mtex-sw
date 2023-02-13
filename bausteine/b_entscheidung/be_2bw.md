@@ -1,0 +1,1 @@
+hat das %GERICHT% die Vollstreckung eines Teils der Strafe zur Bewährung ausgesetzt. 

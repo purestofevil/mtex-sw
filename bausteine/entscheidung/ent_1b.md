@@ -1,0 +1,1 @@
+auf Antrag des/der %ANZ_VON% vom %ANZ_DAT% auf nachträgliche Aussetzung der Vollstreckung der Strafe zur Bewährung 

@@ -1,0 +1,43 @@
+
+
+name: Textgenerator
+
+on: 
+  push:
+    branches: 
+    - master 
+    - integration
+    paths:
+    - bausteine/**
+    - json/**
+    - .github/**
+  
+jobs: 
+  chain_rb:
+    runs-on: ubuntu-latest 
+    steps:
+     - name: checkout repo
+       uses: actions/checkout@v3.1.0
+       with: 
+          repository: 'purestofevil/mtex-sw'
+
+
+     - name: set up ruby env
+       uses: ruby/setup-ruby@v1
+       with:
+         ruby-version: '2.7'
+          
+     - name: executing generate-script 
+       shell: bash 
+       run: sh ".github/script/generate.sh"
+      
+     - name: adding and committing results
+       uses: EndBug/add-and-commit@v9
+       with: 
+         add: 'texte/**'
+         author_name: Mustertext-Generator
+         author_email: 32451545+purestofevil@users.noreply.github.com
+         message: 'Mustertexte neu generiert'
+       env: 
+         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} 
+            

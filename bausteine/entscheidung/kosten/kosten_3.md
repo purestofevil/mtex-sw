@@ -1,0 +1,1 @@
+Die Kosten des Verfahrens trägt %VBETR%. 

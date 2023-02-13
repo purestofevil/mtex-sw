@@ -1,0 +1,1 @@
+anlässlich des %LIGA%-Spiels %FALLGRUNDLAGE% vom %SPDATG%, beabsichtigt das %GERICHT% durch seine/n Sportrichter/Sportrichterin(nen) %BES% wie folgt zu entscheiden: 

@@ -1,0 +1,1 @@
+Die Kosten des Rechtsmittelverfahrens trägt %RECHTSM_FUEHRER%. 

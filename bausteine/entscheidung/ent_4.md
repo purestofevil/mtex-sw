@@ -1,0 +1,1 @@
+anlässlich des %LIGA%-Spiels %FALLGRUNDLAGE% vom %SPDATG% 

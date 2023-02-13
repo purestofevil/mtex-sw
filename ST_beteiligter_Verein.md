@@ -1,7 +1,7 @@
-%AKZ%
+%AKZ%; %FALLGRUNDAGE% 
 
-Einspruch gegen die Wertung des Spiels %LIGA% %HVEREIN% - %GVEREIN% am
-%SPTAG%
+Einspruch gegen die Wertung des Spiels %LIGA% %FALLGRUNDLAGE% am
+%%
 
 Sehr geehrte Damen und Herren,
 

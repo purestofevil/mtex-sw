@@ -1,0 +1,1 @@
+Innerhalb der dort festgesetzten Bewährungszeit ist %SPNAME% durch die Entscheidung in dem Sportrechtsverfahren mit dem Az. %TAT% wiederum rechtskräftig verurteilt worden. 

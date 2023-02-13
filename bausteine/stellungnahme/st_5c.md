@@ -1,0 +1,1 @@
+Sie werden daher aufgefordert, bis zum %STELLGN_BIS% in Textform Stellung zu nehmen. 

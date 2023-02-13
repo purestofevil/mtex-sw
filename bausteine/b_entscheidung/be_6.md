@@ -1,0 +1,1 @@
+Es besteht Gelegenheit zur Stellungnahme in Textform binnen 48 Stunden ab Zugang dieses Schreibens. 

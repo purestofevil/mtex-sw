@@ -1,0 +1,1 @@
+Der Sachverhalt, der %SPNAME% vorgeworfen wird, ergibt sich aus den Eintragungen im Spielbericht und aus den gegebenenfalls diesem Schreiben beigefügten Unterlagen (z.B. Zusatzbericht). 
