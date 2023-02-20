@@ -1,0 +1,22 @@
+remote_theme: pages-themes/minimal@v0.2.0
+# theme: jekyll-theme-minimal
+title: [Mustertexte-SW]
+description: [Mustertexte Einsprüche gg. Spielwertung]
+highlighter: rouge
+encoding: UTF-8
+markdown: GFM
+url: "https://texte.sportgerichtsbarkeit.de/"
+plugins:
+  - jekyll-sitemap
+  - jekyll-remote-theme
+defaults: 
+  - 
+    scope:        
+      path:       "bausteine/*"
+    values:       
+      sitemap:    false
+  - 
+    scope:        
+      path:       "json/*"
+    values:       
+      sitemap:    false
