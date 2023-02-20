@@ -1,6 +1,6 @@
 # Beabsichtigte Entscheidung
 
-1. Einspruch wird als unzulässig verworfen
+1. Einspruch wird als unzulässig verworfen  
 <!--
 - [BE: Unzulässig](../ENT_Unzulaessig.md)  
 	- Textkennung: *fehlt*  
@@ -8,14 +8,14 @@
 	- Zugeordnete Rechtsgrundlage: -  
 	-->
 	
-2. Einspruch wird als unbegründet zurückgewiesen
+2. Einspruch wird als unbegründet zurückgewiesen  
 <!--
 - [BE: Zurückverweisung](../ENT_Zurueckweisung.md)
 	- Textkennung: *fehlt*  
 	- Zugeordnete Gerichte: *fehlt*  
 	- Zugeordnete Rechtsgrundlage: -  
-	
--->	
+-->  
+
 3. (Aufhebung Spielwertung?) Neuansetzung des Spiels
 - [BE: Neuansetzung](../texte/be/SW-03.md)
 	- Textkennung: SW-03: Neuansetzung  
@@ -37,4 +37,4 @@
 	- Textkennung: *fehlt*  
 	- Zugeordnete Gerichte: *fehlt*  
 	- Zugeordnete Rechtsgrundlage: -  
-	-->
+-->  
